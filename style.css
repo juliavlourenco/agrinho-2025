@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #a82d2dbd;
+    background-color: #c2194cbd;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -31,7 +31,8 @@ p {
 }
 
 .imagem-introducao,
-.infografico {
+.desenvolvimento,
+.foto-beneficios {
     display: block;
     margin: 20px auto;
     max-width: 40%;
